@@ -1,0 +1,3 @@
+[submodule "sharedlibrary"]
+	path = sharedlibrary
+	url = https://github.com/olivier-training-profile/shared-repo.git
